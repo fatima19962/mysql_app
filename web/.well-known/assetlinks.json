@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "mysql_app",
+    "package_name": "ir.mlggrand.mysql_app",
+    "sha256_cert_fingerprints":
+    ["2E:9D:1D:C9:12:F5:D6:2A:49:59:01:0B:83:61:C6:5E:4A:F5:FC:F7:FA:2D:ED:99:01:28:39:CB:D2:6E:6A:23"]
+  }
+}]
